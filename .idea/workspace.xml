@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Pythons/botvsgutu" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +68,7 @@
       <updated>1597020359009</updated>
       <workItem from="1597020361279" duration="3951000" />
       <workItem from="1597048202367" duration="3213000" />
-      <workItem from="1597106124565" duration="2598000" />
+      <workItem from="1597106124565" duration="2628000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1597106540370</created>
@@ -107,6 +107,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1597129840223">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1597129840223" />
     <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1597109546328">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
